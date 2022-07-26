@@ -1,0 +1,781 @@
+"Country","Pollutant","VAR","Variable","Year","Unit","PowerCode","Value"
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",1248576.919
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",1202060.546
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",1152179.824
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",1142845.266
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",1124864.862
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",1120555.248
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",1138786.137
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",1103880.945
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",1078775.632
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",1044927.444
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",1042612.087
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",1058745.059
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",1037234.571
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",1034137.576
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",1017525.748
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",992529.515
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",999354.674
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",973768.627
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",974780.347
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",908688.445
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",941805.336
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",917273.599
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",923342.027
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",940419.539
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",901255.144
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",904261.811
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",907967.906
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",892075.667
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",855890.413
+"Germany","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",809798.537
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",1052476.835
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",1014224.521
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",965893.262
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",956132.116
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",939814.629
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",938968.408
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",959151.308
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",931324.201
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",923356.691
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",895874.334
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",899852.056
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",916648.522
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",899971.399
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",901151.903
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",887089.127
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",866697.224
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",878320.43
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",851624.329
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",854927.145
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",790294.719
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",832949.108
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",809216.919
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",813984.654
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",831453.838
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",792587.77
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",795610.215
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",800686.632
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",785882.918
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",754111.607
+"Germany","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",711427.809
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",117807.451
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",112298.393
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",108788.035
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",109547.433
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",105756.001
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",103447.387
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",100907.466
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",96510.364
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",91593.677
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",90694.137
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",86739.234
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",83230
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",79299.551
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",75974.356
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",71056.357
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",67888.823
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",64123.355
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",62134.943
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",61053.029
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",58631.641
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",57607.537
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",56512.601
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",57237.181
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",56564.161
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",55395.152
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",55094.193
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",53793.166
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",53168.451
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",51359.493
+"Germany","Methane","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",49271.044
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",64897.203
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",62702.723
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",64191.754
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",61071.91
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",62798.354
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",61047.896
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",62638.353
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",59762.493
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",47022.1
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",43281.69
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",42727.471
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",44839.515
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",43813.081
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",43463.17
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",45392.043
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",43759.846
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",42793.348
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",45816.744
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",44568.117
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",45072.294
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",37001.922
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",37116.947
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",37502.026
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",37738.38
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",38598.537
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",38431.774
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",38237.88
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",37607.473
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",35807.816
+"Germany","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",35121.906
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",50.32
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",45.922
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",287.564
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",2495.767
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",2687.863
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",2614.283
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",3407.62
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",4157.373
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",4868.842
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",5200.825
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",6031.991
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",7456.575
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",8093.33
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",8303.515
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",8754.562
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",9009.548
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",9379.146
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",9805.142
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",9768.972
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",10031.485
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",10339.223
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",10786.315
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",10975.415
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",10979.93
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",11129.393
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",11377.719
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",11346.722
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",11175.749
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",10250.797
+"Germany","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",9611.811
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",3060.232
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",2654.624
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",2407.119
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",2256.39
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",1918.776
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",2085.721
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",2041.187
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",1653.484
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",1781.791
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",1484.769
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",956.325
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",869.601
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",945.648
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",1015.53
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",977.4
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",836.769
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",668.468
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",587.337
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",566
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",405.898
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",345.375
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",278.513
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",242.195
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",256.944
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",234.335
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",244.183
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",252.127
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",257.157
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",289.594
+"Germany","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",231.756
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",4427.998
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",4745.879
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",5237.807
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",5973.591
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",6249.228
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",6467.15
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",6162.493
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",6108.844
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",5888.915
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",4289.752
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",4072.498
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",3751.779
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",3082.252
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",3013.41
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",3241.043
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",3252.037
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",3200.643
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",3089.621
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",2942.667
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",2942.522
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",3002.479
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",3035.331
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",3082.588
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",3122.346
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",3066.148
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",3246.743
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",3457.206
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",3759.573
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",3870.614
+"Germany","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",3919.33
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",65129.227
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",66005.337
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",67153.485
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",66913.439
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",68135.376
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",68913.125
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",70973.413
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",73669.126
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",71569.278
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",73366.381
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",75397.631
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",78386.356
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",78563.492
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",80733.638
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",80548.785
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",82486.172
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",82518.413
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",80522.566
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",80605.445
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",77881.951
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",78316.411
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",78149.235
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",80446.278
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",79827.771
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",80673.998
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",80724.436
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",78678.362
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",80281.999
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",80578.309
+"New Zealand","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",82317.876
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",25649.309
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",26332.77
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",28274.938
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",27862.725
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",28027.524
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",28148.848
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",29377.311
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",31326.236
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",29930.578
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",31537.744
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",32339.419
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",34490.005
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",34659.519
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",36300.95
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",35953.304
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",37553.454
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",37543.425
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",36657.303
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",37713.283
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",34882.46
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",35031.266
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",34497.004
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",36137.911
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",35304.681
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",35531.369
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",36071.297
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",34304.683
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",35854.823
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",35789.215
+"New Zealand","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",37494.502
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",32795.284
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",32924.909
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",32544.677
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",32746.477
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",33592.031
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",34028.088
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",34618.851
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",35320.985
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",34707.777
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",34893.563
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",35771.595
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",36173.893
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",35961.728
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",36080.504
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",36055.407
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",36244.594
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",36354.297
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",35387.368
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",34315.003
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",34427.39
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",34518.563
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",34592.462
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",35077.772
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",35202.229
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",35507.989
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",34993.687
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",34561.764
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",34480.883
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",34535.595
+"New Zealand","Methane","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",34621.292
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",5754.711
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",5823.006
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",5849.799
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",6071.03
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",6298.307
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",6533.977
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",6610.682
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",6700.385
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",6632.853
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",6663.858
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",6965.796
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",7331.715
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",7433.08
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",7696.338
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",7829.465
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",7899.32
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",7694.233
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",7502.789
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",7501.464
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",7501.644
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",7642.874
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",7823.104
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",7931.671
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",7961.983
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",8228.573
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",8146.081
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",8172.017
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",8197.685
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",8325.749
+"New Zealand","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",8363.178
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",0.286
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",0.358
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",7.905
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",24.518
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",62.941
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",94.83
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",121.83
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",177.984
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",233.647
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",300.097
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",401.364
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",503.845
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",582.577
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",694.011
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",798.681
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",906.826
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",1010.887
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",994.063
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",1053.309
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",1182.573
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",1230.558
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",1292.562
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",1315.851
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",1438.316
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",1573.838
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",1673.355
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",1840.639
+"New Zealand","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",1734.064
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",909.949
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",903.79
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",461.879
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",210.157
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",186.178
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",153.277
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",278.981
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",201.106
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",151.383
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",68.667
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",67.61
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",70.61
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",84.484
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",126.813
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",99.115
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",69.38
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",106.732
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",48.405
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",45.467
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",53.858
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",47.562
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",35.152
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",47.462
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",48.125
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",73.41
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",58.585
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",48.691
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",60.458
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",72.396
+"New Zealand","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",89.132
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",19.973
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",20.862
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",21.905
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",22.693
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",23.43
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",24.416
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",24.647
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",25.585
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",24.857
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",24.565
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",19.564
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",20.037
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",23.317
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",25.187
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",28.916
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",25.414
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",21.046
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",19.875
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",19.341
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",22.536
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",22.838
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",18.94
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",20.905
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",18.191
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",16.807
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",16.47
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",17.369
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",14.796
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",14.715
+"New Zealand","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",15.708
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",6442650.626
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",6373621.135
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",6486343.836
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",6604349.889
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",6691822.829
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",6775860.245
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",6981165.376
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",7036508.04
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",7083269.267
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",7125399.029
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",7313616.493
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",7202956.514
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",7244301.889
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",7301363.18
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",7415471.108
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",7423031.031
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",7344462.848
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",7449616.025
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",7224648.98
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",6772000.071
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",6991106.343
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",6827402.421
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",6585907.766
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",6764669.11
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",6824956.709
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",6671112.065
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",6520337.839
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",6483291.331
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",6671449.401
+"United States","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",6558345.179
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",5113454.675
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",5057930.94
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",5167480.847
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",5267343.06
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",5358824.048
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",5421502.465
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",5610581.589
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",5686464.995
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",5731049.595
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",5804668.919
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",6010508.353
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",5904881.595
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",5946770.566
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",6011837.495
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",6114006.88
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",6134521.473
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",6051668.046
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",6131004.158
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",5914077.766
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",5478209.686
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",5675786.435
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",5540173.478
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",5338698.344
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",5474256.77
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",5522807.202
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",5371770.557
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",5248023.931
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",5207751.278
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",5375490.614
+"United States","Carbon dioxide","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",5255816.207
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",776872.695
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",781779.433
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",780519.139
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",770710.149
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",777032.032
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",767697.234
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",760808.472
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",746757.333
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",731667.549
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",713351.443
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",707563.472
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",699820.387
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",692825.189
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",692714.441
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",686992.053
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",686112.752
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",690803.204
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",693893.135
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",700848.12
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",689678.24
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",692149.395
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",666172.529
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",658159.692
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",654406.243
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",651027.257
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",651534.655
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",642389.534
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",648382.337
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",655936.229
+"United States","Methane","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",659712.703
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",452657.524
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",443229.443
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",443066.108
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",471293.158
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",456990.572
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",468807.734
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",480769.69
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",466844.894
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",467696.827
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",457479.569
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",444650.49
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",460363.927
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",458841.946
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",459796.783
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",469886.443
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",455839.839
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",452477.704
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",463541.343
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",446901.641
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",445575.854
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",454950.845
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",445575.097
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",416764.456
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",463858.788
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",473988.776
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",468244.115
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",450792.263
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",446271.465
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",459211.75
+"United States","Nitrous oxide","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",457141.519
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",46289.01
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",41618.767
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",47436.534
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",47588.587
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",54341.448
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",72512.303
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",81463.002
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",91417.464
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",111160.966
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",108304.811
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",113459.441
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",109259.532
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",115376.513
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",108073.021
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",117837.755
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",120223.32
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",124048.149
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",135163.202
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",138840.567
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",137437.175
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",145692.126
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",148744.769
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",147052.653
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",146988.098
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",151613.072
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",154223.771
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",153140.312
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",154361.24
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",153440.636
+"United States","Hydrofluorocarbons","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",158219.73
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",24255.672
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",20912.458
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",19481.087
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",19484.618
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",17965.004
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",18640.473
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",19867.541
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",18267.245
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",16978.6
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",16910.13
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",15923.944
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",8253.035
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",10252.681
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",8185.054
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",6841.078
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",6707.362
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",6529.937
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",8007.029
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",6362.152
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",4092.675
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",4737.931
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",7315.632
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",6404.456
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",6122.775
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",5760.308
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",5204.583
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",4390.52
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",4092.781
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",4699.574
+"United States","Perfluorocarbons","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",4484.389
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",28845.726
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",27623.545
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",27828.74
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",27376.915
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",26070.978
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",24865.944
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",24294.702
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",22670.98
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",19932.913
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",19669.474
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",16574.879
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",15404.171
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",14188.855
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",13861.423
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",12495.284
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",11803.056
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",10511.324
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",9245.615
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",8403.254
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",7291.978
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",7288.639
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",8207.692
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",6921.745
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",6513.762
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",6557.409
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",5490.036
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",6020.789
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",5873.719
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",5694.858
+"United States","Sulphur hexafluoride","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",5902.909
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",4057617
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",8015000
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",10543331
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",11895765
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",12300200
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",720027
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",1009000
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",1126692
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",1173900
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",1124970
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",264120
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",5e+05
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",546530
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",638600
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",609770
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",109000
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",132503
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",154518
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",212979
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",6000
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",8720
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",11590
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",15490
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",10000
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",21510
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",23900
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",62140
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",47.922
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",47.922
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",47.922
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",59.902
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",65.892
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",83.237
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",92.432
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",97.682
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",119.775
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",121.543
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",204.245
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",227.281
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",554.49
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",529.798
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",547.043
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",490.719
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",695.955
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",568.119
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",589.333
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",468.225
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",557.691
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",568.92
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",572.732
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",498.578
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",516.563
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",566.444
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",569.481
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",594.545
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",616.977
+"United States","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",605.123
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",6.88
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",6.88
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",6.88
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",6.88
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",6.88
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",5.29
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",7.221
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",7.852
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",7.584
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",6.685
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",8.916
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",7.82
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",12.219
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",19.377
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",22.814
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",34.489
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",27.84
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",12.023
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",29.596
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",29.081
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",61.434
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",61.207
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",35.207
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",16.03
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",20.279
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",11.885
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",11.146
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",11.507
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",11.748
+"Germany","Nitrogen trifluoride","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",10.956
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",5850.001
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",5381.605
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",5367.403
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",5361.179
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",5633.132
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",5919.114
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",4470.489
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",4356.334
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",4256.033
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",4095.251
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",2223.596
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",1941.247
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",2017.092
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",1196.315
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",992.401
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",1050.778
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",841.444
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",698.488
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",924.821
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",1280.805
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",498.259
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",265.766
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",282.76
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",287.908
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",223.532
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",245.099
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",183.027
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",212.839
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",188.743
+"Germany","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",203.924
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1990,"Tonnes of CO2 equivalent","Thousands",227.404
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1991,"Tonnes of CO2 equivalent","Thousands",478.628
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1992,"Tonnes of CO2 equivalent","Thousands",483.46
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1993,"Tonnes of CO2 equivalent","Thousands",493.501
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",532.855
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1995,"Tonnes of CO2 equivalent","Thousands",1750.854
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1996,"Tonnes of CO2 equivalent","Thousands",3287.949
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1997,"Tonnes of CO2 equivalent","Thousands",3987.448
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1998,"Tonnes of CO2 equivalent","Thousands",4663.043
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",1999,"Tonnes of CO2 equivalent","Thousands",4893.139
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2000,"Tonnes of CO2 equivalent","Thousands",4731.668
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2001,"Tonnes of CO2 equivalent","Thousands",4746.586
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2002,"Tonnes of CO2 equivalent","Thousands",5491.648
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2003,"Tonnes of CO2 equivalent","Thousands",6365.166
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2004,"Tonnes of CO2 equivalent","Thousands",6864.571
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",7332.51
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2006,"Tonnes of CO2 equivalent","Thousands",7728.529
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2007,"Tonnes of CO2 equivalent","Thousands",8193.425
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2008,"Tonnes of CO2 equivalent","Thousands",8626.147
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2009,"Tonnes of CO2 equivalent","Thousands",9246.237
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",9943.28
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2011,"Tonnes of CO2 equivalent","Thousands",10644.304
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",11333.687
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2013,"Tonnes of CO2 equivalent","Thousands",12024.096
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",12686.12
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2015,"Tonnes of CO2 equivalent","Thousands",14077.904
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2016,"Tonnes of CO2 equivalent","Thousands",15011.01
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2017,"Tonnes of CO2 equivalent","Thousands",15963.966
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2018,"Tonnes of CO2 equivalent","Thousands",16358.763
+"United States","Unspecified mix of HFCs and PFCs","TOTAL","Total  emissions excluding LULUCF",2019,"Tonnes of CO2 equivalent","Thousands",16462.599
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",1994,"Tonnes of CO2 equivalent","Thousands",3073470
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2005,"Tonnes of CO2 equivalent","Thousands",6381000
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2010,"Tonnes of CO2 equivalent","Thousands",8707376
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2012,"Tonnes of CO2 equivalent","Thousands",9893257
+"China (People's Republic of)","Greenhouse gases","TOTAL","Total  emissions excluding LULUCF",2014,"Tonnes of CO2 equivalent","Thousands",10274851

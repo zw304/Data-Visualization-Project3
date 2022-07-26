@@ -1,0 +1,120 @@
+"Country","Pollutant","VAR","Year","Unit","PowerCode.Code","PowerCode","Value"
+"United States","Greenhouse gases","AGR_P",1990,"Percentage",0,"Units",8.62
+"United States","Greenhouse gases","AGR_P",1991,"Percentage",0,"Units",8.576
+"United States","Greenhouse gases","AGR_P",1992,"Percentage",0,"Units",8.439
+"United States","Greenhouse gases","AGR_P",1993,"Percentage",0,"Units",8.712
+"United States","Greenhouse gases","AGR_P",1994,"Percentage",0,"Units",8.402
+"United States","Greenhouse gases","AGR_P",1995,"Percentage",0,"Units",8.48
+"United States","Greenhouse gases","AGR_P",1996,"Percentage",0,"Units",8.335
+"United States","Greenhouse gases","AGR_P",1997,"Percentage",0,"Units",8.101
+"United States","Greenhouse gases","AGR_P",1998,"Percentage",0,"Units",8.161
+"United States","Greenhouse gases","AGR_P",1999,"Percentage",0,"Units",8.016
+"United States","Greenhouse gases","AGR_P",2000,"Percentage",0,"Units",7.614
+"United States","Greenhouse gases","AGR_P",2001,"Percentage",0,"Units",8.001
+"United States","Greenhouse gases","AGR_P",2002,"Percentage",0,"Units",7.982
+"United States","Greenhouse gases","AGR_P",2003,"Percentage",0,"Units",7.903
+"United States","Greenhouse gases","AGR_P",2004,"Percentage",0,"Units",7.882
+"United States","Greenhouse gases","AGR_P",2005,"Percentage",0,"Units",7.774
+"United States","Greenhouse gases","AGR_P",2006,"Percentage",0,"Units",7.795
+"United States","Greenhouse gases","AGR_P",2007,"Percentage",0,"Units",7.952
+"United States","Greenhouse gases","AGR_P",2008,"Percentage",0,"Units",8.094
+"United States","Greenhouse gases","AGR_P",2009,"Percentage",0,"Units",8.685
+"United States","Greenhouse gases","AGR_P",2010,"Percentage",0,"Units",8.53
+"United States","Greenhouse gases","AGR_P",2011,"Percentage",0,"Units",8.458
+"United States","Greenhouse gases","AGR_P",2012,"Percentage",0,"Units",8.5
+"United States","Greenhouse gases","AGR_P",2013,"Percentage",0,"Units",8.877
+"United States","Greenhouse gases","AGR_P",2014,"Percentage",0,"Units",8.938
+"United States","Greenhouse gases","AGR_P",2015,"Percentage",0,"Units",9.235
+"United States","Greenhouse gases","AGR_P",2016,"Percentage",0,"Units",9.27
+"United States","Greenhouse gases","AGR_P",2017,"Percentage",0,"Units",9.34
+"United States","Greenhouse gases","AGR_P",2018,"Percentage",0,"Units",9.308
+"United States","Greenhouse gases","AGR_P",2019,"Percentage",0,"Units",9.585
+"Australia","Greenhouse gases","AGR_P",1990,"Percentage",0,"Units",20.028
+"Australia","Greenhouse gases","AGR_P",1991,"Percentage",0,"Units",19.837
+"Australia","Greenhouse gases","AGR_P",1992,"Percentage",0,"Units",19.025
+"Australia","Greenhouse gases","AGR_P",1993,"Percentage",0,"Units",18.522
+"Australia","Greenhouse gases","AGR_P",1994,"Percentage",0,"Units",18.518
+"Australia","Greenhouse gases","AGR_P",1995,"Percentage",0,"Units",17.346
+"Australia","Greenhouse gases","AGR_P",1996,"Percentage",0,"Units",17.578
+"Australia","Greenhouse gases","AGR_P",1997,"Percentage",0,"Units",17.385
+"Australia","Greenhouse gases","AGR_P",1998,"Percentage",0,"Units",16.83
+"Australia","Greenhouse gases","AGR_P",1999,"Percentage",0,"Units",16.608
+"Australia","Greenhouse gases","AGR_P",2000,"Percentage",0,"Units",16.864
+"Australia","Greenhouse gases","AGR_P",2001,"Percentage",0,"Units",16.393
+"Australia","Greenhouse gases","AGR_P",2002,"Percentage",0,"Units",16.25
+"Australia","Greenhouse gases","AGR_P",2003,"Percentage",0,"Units",15.107
+"Australia","Greenhouse gases","AGR_P",2004,"Percentage",0,"Units",15.287
+"Australia","Greenhouse gases","AGR_P",2005,"Percentage",0,"Units",15.214
+"Australia","Greenhouse gases","AGR_P",2006,"Percentage",0,"Units",14.814
+"Australia","Greenhouse gases","AGR_P",2007,"Percentage",0,"Units",13.901
+"Australia","Greenhouse gases","AGR_P",2008,"Percentage",0,"Units",13.373
+"Australia","Greenhouse gases","AGR_P",2009,"Percentage",0,"Units",13.354
+"Australia","Greenhouse gases","AGR_P",2010,"Percentage",0,"Units",13.029
+"Australia","Greenhouse gases","AGR_P",2011,"Percentage",0,"Units",13.839
+"Australia","Greenhouse gases","AGR_P",2012,"Percentage",0,"Units",14.044
+"Australia","Greenhouse gases","AGR_P",2013,"Percentage",0,"Units",14.324
+"Australia","Greenhouse gases","AGR_P",2014,"Percentage",0,"Units",14.564
+"Australia","Greenhouse gases","AGR_P",2015,"Percentage",0,"Units",13.799
+"Australia","Greenhouse gases","AGR_P",2016,"Percentage",0,"Units",13.395
+"Australia","Greenhouse gases","AGR_P",2017,"Percentage",0,"Units",13.936
+"Australia","Greenhouse gases","AGR_P",2018,"Percentage",0,"Units",13.671
+"Australia","Greenhouse gases","AGR_P",2019,"Percentage",0,"Units",12.795
+"France","Greenhouse gases","AGR_P",1990,"Percentage",0,"Units",14.948
+"France","Greenhouse gases","AGR_P",1991,"Percentage",0,"Units",14.189
+"France","Greenhouse gases","AGR_P",1992,"Percentage",0,"Units",14.195
+"France","Greenhouse gases","AGR_P",1993,"Percentage",0,"Units",14.555
+"France","Greenhouse gases","AGR_P",1994,"Percentage",0,"Units",14.695
+"France","Greenhouse gases","AGR_P",1995,"Percentage",0,"Units",14.668
+"France","Greenhouse gases","AGR_P",1996,"Percentage",0,"Units",14.265
+"France","Greenhouse gases","AGR_P",1997,"Percentage",0,"Units",14.512
+"France","Greenhouse gases","AGR_P",1998,"Percentage",0,"Units",14.157
+"France","Greenhouse gases","AGR_P",1999,"Percentage",0,"Units",14.398
+"France","Greenhouse gases","AGR_P",2000,"Percentage",0,"Units",14.887
+"France","Greenhouse gases","AGR_P",2001,"Percentage",0,"Units",14.662
+"France","Greenhouse gases","AGR_P",2002,"Percentage",0,"Units",14.568
+"France","Greenhouse gases","AGR_P",2003,"Percentage",0,"Units",13.97
+"France","Greenhouse gases","AGR_P",2004,"Percentage",0,"Units",14.054
+"France","Greenhouse gases","AGR_P",2005,"Percentage",0,"Units",13.834
+"France","Greenhouse gases","AGR_P",2006,"Percentage",0,"Units",14.027
+"France","Greenhouse gases","AGR_P",2007,"Percentage",0,"Units",14.446
+"France","Greenhouse gases","AGR_P",2008,"Percentage",0,"Units",14.782
+"France","Greenhouse gases","AGR_P",2009,"Percentage",0,"Units",15.254
+"France","Greenhouse gases","AGR_P",2010,"Percentage",0,"Units",14.814
+"France","Greenhouse gases","AGR_P",2011,"Percentage",0,"Units",15.418
+"France","Greenhouse gases","AGR_P",2012,"Percentage",0,"Units",15.357
+"France","Greenhouse gases","AGR_P",2013,"Percentage",0,"Units",15.224
+"France","Greenhouse gases","AGR_P",2014,"Percentage",0,"Units",16.654
+"France","Greenhouse gases","AGR_P",2015,"Percentage",0,"Units",16.511
+"France","Greenhouse gases","AGR_P",2016,"Percentage",0,"Units",16.142
+"France","Greenhouse gases","AGR_P",2017,"Percentage",0,"Units",16.089
+"France","Greenhouse gases","AGR_P",2018,"Percentage",0,"Units",16.455
+"France","Greenhouse gases","AGR_P",2019,"Percentage",0,"Units",16.583
+"Korea","Greenhouse gases","AGR_P",1990,"Percentage",0,"Units",7.177
+"Korea","Greenhouse gases","AGR_P",1991,"Percentage",0,"Units",6.733
+"Korea","Greenhouse gases","AGR_P",1992,"Percentage",0,"Units",6.3
+"Korea","Greenhouse gases","AGR_P",1993,"Percentage",0,"Units",5.838
+"Korea","Greenhouse gases","AGR_P",1994,"Percentage",0,"Units",5.587
+"Korea","Greenhouse gases","AGR_P",1995,"Percentage",0,"Units",5.26
+"Korea","Greenhouse gases","AGR_P",1996,"Percentage",0,"Units",4.96
+"Korea","Greenhouse gases","AGR_P",1997,"Percentage",0,"Units",4.649
+"Korea","Greenhouse gases","AGR_P",1998,"Percentage",0,"Units",5.345
+"Korea","Greenhouse gases","AGR_P",1999,"Percentage",0,"Units",4.673
+"Korea","Greenhouse gases","AGR_P",2000,"Percentage",0,"Units",4.249
+"Korea","Greenhouse gases","AGR_P",2001,"Percentage",0,"Units",4.043
+"Korea","Greenhouse gases","AGR_P",2002,"Percentage",0,"Units",3.849
+"Korea","Greenhouse gases","AGR_P",2003,"Percentage",0,"Units",3.729
+"Korea","Greenhouse gases","AGR_P",2004,"Percentage",0,"Units",3.691
+"Korea","Greenhouse gases","AGR_P",2005,"Percentage",0,"Units",3.697
+"Korea","Greenhouse gases","AGR_P",2006,"Percentage",0,"Units",3.674
+"Korea","Greenhouse gases","AGR_P",2007,"Percentage",0,"Units",3.628
+"Korea","Greenhouse gases","AGR_P",2008,"Percentage",0,"Units",3.561
+"Korea","Greenhouse gases","AGR_P",2009,"Percentage",0,"Units",3.621
+"Korea","Greenhouse gases","AGR_P",2010,"Percentage",0,"Units",3.363
+"Korea","Greenhouse gases","AGR_P",2011,"Percentage",0,"Units",3.084
+"Korea","Greenhouse gases","AGR_P",2012,"Percentage",0,"Units",3.119
+"Korea","Greenhouse gases","AGR_P",2013,"Percentage",0,"Units",3.061
+"Korea","Greenhouse gases","AGR_P",2014,"Percentage",0,"Units",3.089
+"Korea","Greenhouse gases","AGR_P",2015,"Percentage",0,"Units",3.03
+"Korea","Greenhouse gases","AGR_P",2016,"Percentage",0,"Units",3.001
+"Korea","Greenhouse gases","AGR_P",2017,"Percentage",0,"Units",2.953
+"Korea","Greenhouse gases","AGR_P",2018,"Percentage",0,"Units",2.912
